@@ -21,7 +21,7 @@ Aceasta functionalitate va fi disponibila oricarei institutii publice , acestea 
 # 3.Actionari/Interese
 
 ## Firma :
-Pune la dispozitia institutiilor  aplicatia , ofera mentenanta unde este nevoie , plus versiuni noi.
+Pune la dispozitia institutiilor  aplicatia.
 ## Institutie : 
 Ofera utilizatorilor (cadrelor didactice , personalul institutiei) aplicatie pe un anumit server web , gratuit , accesibil 24/24.
 ## Utilizatorul : 
@@ -43,6 +43,7 @@ Auto-educare.
 ### 5.1.1 Obiectiv/Context
 
 Utilizatorului ii este prezentat wireframe-ul cladirii.
+Acesta poate roti imaginea folosind "click" stanga pe unele dintre butoanele : stanga,dreapta,sus,jos , aflate intr-un colt al imaginii. 
 
 ### 5.1.2 Scenariu / Pasi
 
@@ -67,13 +68,15 @@ Prin accesarea unui etaj pot fi afisate printr-un "click" informatii in legatura
 
 ### 5.2.2. Scenariu/Pasi
 
-Conform celor de mai sus , utilizatorul poate accesa informatiile la distanta de un "click".
+Conform celor de mai sus , utilizatorul poate accesa informatiile la distanta de un "click" stanga.
 
 ### 5.2.3 Extensii
 
 Componenta nu este activa.
+Pot exista conflicte intre stabilirea rutelor de evacuare.
 
 Solutie : Reimprospatarea paginii / redesenarea etajului.
+          Rezolvarea conflictului - alegerea drumului cel mai eficient.
 
 ## 5.3. Utilizatorul declanseaza o simulare
 
