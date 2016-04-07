@@ -86,7 +86,7 @@ Utilizatorul poate declansa o evacuare simulata  , pornita dintr-un anumit spati
 
 ### 5.3.2. Scenariu/Pasi
 
-Va exista o functionalitate , prin care utilizatorul va porni simularea printr-un "click".
+Va exista o functionalitate , prin care utilizatorul va porni simularea printr-un "click" stanga.
 
 
 
